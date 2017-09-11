@@ -1,0 +1,149 @@
+PW 1:
+Congruent: 3
+is_a (input): 9
+Overlaps (inferred): 3
+is_a (inferred): 4
+
+PW 2:
+Congruent: 3
+Overlaps (inferred): 1
+is_a (inferred): 5
+is_a (input): 6
+
+PW 3:
+Congruent: 3
+is_a (inferred): 1
+Overlaps (inferred): 9
+is_a (input): 12
+
+PW 4:
+Congruent: 3
+is_a (inferred): 2
+is_a (input): 11
+Overlaps (inferred): 7
+
+PW 5:
+Congruent: 3
+is_a (inferred): 2
+Overlaps (inferred): 6
+is_a (input): 12
+
+PW 6:
+Congruent: 4
+is_a (inferred): 1
+is_a (input): 12
+Overlaps (inferred): 4
+
+PW 7:
+Congruent: 3
+is_a (inferred): 3
+Overlaps (inferred): 5
+is_a (input): 9
+
+PW 8:
+Congruent: 4
+is_a (inferred): 2
+Overlaps (inferred): 3
+is_a (input): 9
+
+PW 9:
+Congruent: 3
+Overlaps (inferred): 12
+is_a (input): 12
+
+PW 10:
+Congruent: 3
+is_a (inferred): 1
+is_a (input): 12
+Overlaps (inferred): 10
+
+PW 11:
+Congruent: 3
+is_a (inferred): 1
+Overlaps (inferred): 9
+is_a (input): 12
+
+PW 12:
+Congruent: 3
+is_a (inferred): 2
+is_a (input): 12
+Overlaps (inferred): 6
+
+PW 13:
+Congruent: 3
+is_a (inferred): 2
+Overlaps (inferred): 9
+is_a (input): 9
+
+PW 14:
+Congruent: 3
+is_a (inferred): 3
+Overlaps (inferred): 6
+is_a (input): 8
+
+PW 15:
+Congruent: 3
+is_a (inferred): 1
+Overlaps (inferred): 9
+is_a (input): 12
+
+PW 16:
+Congruent: 3
+is_a (inferred): 3
+Overlaps (inferred): 6
+is_a (input): 8
+
+PW 17:
+Congruent: 3
+is_a (inferred): 3
+is_a (input): 12
+Overlaps (inferred): 4
+
+PW 18:
+Congruent: 3
+Overlaps (inferred): 1
+is_a (input): 6
+is_a (inferred): 5
+
+PW 19:
+Congruent: 3
+is_a (inferred): 2
+is_a (input): 12
+Overlaps (inferred): 6
+
+PW 20:
+Congruent: 3
+is_a (inferred): 1
+Overlaps (inferred): 9
+is_a (input): 12
+
+PW 21:
+Congruent: 3
+is_a (inferred): 2
+is_a (input): 11
+Overlaps (inferred): 7
+
+PW 22:
+Congruent: 3
+is_a (inferred): 3
+Overlaps (inferred): 5
+is_a (input): 9
+
+PW 23:
+Congruent: 3
+is_a (inferred): 2
+Overlaps (inferred): 6
+is_a (input): 12
+
+PW 24:
+Congruent: 4
+Overlaps (inferred): 4
+is_a (input): 12
+is_a (inferred): 1
+
+PW 25:
+Congruent: 4
+is_a (inferred): 2
+Overlaps (inferred): 3
+is_a (input): 9
+

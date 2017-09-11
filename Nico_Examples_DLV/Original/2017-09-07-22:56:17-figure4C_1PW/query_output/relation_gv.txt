@@ -1,0 +1,5 @@
+PW 1:
+Congruent: 4
+is_a (input): 13
+Overlaps (inferred): 4
+

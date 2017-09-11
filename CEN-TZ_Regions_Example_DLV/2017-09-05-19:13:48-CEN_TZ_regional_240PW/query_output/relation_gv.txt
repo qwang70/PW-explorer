@@ -1,0 +1,1437 @@
+PW 1:
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 10
+
+PW 2:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 9
+
+PW 3:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 9
+
+PW 4:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 5:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 9
+
+PW 6:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 7:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 8:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 9:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 9
+
+PW 10:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 11:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 12:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 13:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 14:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 15:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 16:
+is_a (inferred): 4
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 17:
+is_a (inferred): 1
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 9
+
+PW 18:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 19:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 20:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 21:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 22:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 23:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 24:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 25:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 26:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 27:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 28:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 29:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 30:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 31:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 32:
+is_a (inferred): 5
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 33:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 9
+
+PW 34:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 35:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 36:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 37:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 38:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 39:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 40:
+is_a (inferred): 4
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 41:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 42:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 43:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 44:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 45:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 46:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 47:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 48:
+is_a (inferred): 5
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 49:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 50:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 51:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 52:
+is_a (inferred): 4
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 53:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 54:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 55:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 56:
+is_a (inferred): 5
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 57:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 58:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 59:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 60:
+is_a (inferred): 3
+is_a (input): 7
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 61:
+Overlaps (inferred): 5
+is_a (input): 7
+Overlaps (input): 6
+is_a (inferred): 2
+
+PW 62:
+Overlaps (inferred): 4
+is_a (input): 6
+Overlaps (input): 6
+is_a (inferred): 3
+
+PW 63:
+Overlaps (inferred): 4
+is_a (input): 6
+Overlaps (input): 6
+is_a (inferred): 3
+
+PW 64:
+Overlaps (inferred): 3
+is_a (input): 5
+Overlaps (input): 6
+is_a (inferred): 4
+
+PW 65:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 66:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 67:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 68:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 69:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 70:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 71:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 72:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 73:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 74:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 75:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 76:
+is_a (inferred): 4
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 77:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 78:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 79:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 80:
+is_a (inferred): 5
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 81:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 82:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 83:
+is_a (inferred): 3
+Overlaps (inferred): 6
+Overlaps (input): 6
+is_a (input): 7
+
+PW 84:
+is_a (inferred): 4
+Overlaps (inferred): 5
+Overlaps (input): 6
+is_a (input): 7
+
+PW 85:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 86:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 87:
+is_a (input): 7
+Overlaps (inferred): 5
+Overlaps (input): 6
+is_a (inferred): 4
+
+PW 88:
+is_a (input): 7
+Overlaps (inferred): 4
+Overlaps (input): 6
+is_a (inferred): 5
+
+PW 89:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 90:
+is_a (inferred): 4
+Overlaps (inferred): 5
+Overlaps (input): 6
+is_a (input): 7
+
+PW 91:
+Overlaps (inferred): 5
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 4
+
+PW 92:
+Overlaps (inferred): 4
+is_a (inferred): 5
+Overlaps (input): 6
+is_a (input): 7
+
+PW 93:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 94:
+is_a (inferred): 3
+Overlaps (inferred): 3
+Overlaps (input): 6
+is_a (input): 6
+
+PW 95:
+is_a (inferred): 3
+is_a (input): 7
+Overlaps (input): 6
+Overlaps (inferred): 3
+
+PW 96:
+is_a (input): 5
+is_a (inferred): 4
+Overlaps (input): 6
+Overlaps (inferred): 2
+
+PW 97:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 98:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 99:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 100:
+is_a (inferred): 4
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 101:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 102:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 103:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 104:
+is_a (inferred): 5
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 105:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 106:
+is_a (inferred): 4
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 107:
+is_a (inferred): 4
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 108:
+is_a (inferred): 5
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 109:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 110:
+is_a (inferred): 3
+is_a (input): 7
+Overlaps (input): 6
+Overlaps (inferred): 3
+
+PW 111:
+Overlaps (inferred): 3
+is_a (input): 7
+Overlaps (input): 6
+is_a (inferred): 3
+
+PW 112:
+Overlaps (inferred): 2
+is_a (input): 6
+Overlaps (input): 6
+is_a (inferred): 4
+
+PW 113:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 114:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 115:
+is_a (inferred): 4
+Overlaps (inferred): 5
+Overlaps (input): 6
+is_a (input): 7
+
+PW 116:
+is_a (inferred): 5
+Overlaps (inferred): 4
+Overlaps (input): 6
+is_a (input): 7
+
+PW 117:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 118:
+is_a (inferred): 5
+Overlaps (inferred): 4
+Overlaps (input): 6
+is_a (input): 7
+
+PW 119:
+is_a (inferred): 3
+is_a (input): 7
+Overlaps (input): 6
+Overlaps (inferred): 3
+
+PW 120:
+is_a (input): 5
+Overlaps (inferred): 2
+Overlaps (input): 6
+is_a (inferred): 4
+
+PW 121:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 122:
+is_a (inferred): 5
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 123:
+Overlaps (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 5
+
+PW 124:
+Overlaps (inferred): 2
+is_a (input): 6
+Overlaps (input): 6
+is_a (inferred): 4
+
+PW 125:
+Overlaps (inferred): 3
+is_a (inferred): 3
+Overlaps (input): 6
+is_a (input): 6
+
+PW 126:
+Overlaps (inferred): 2
+is_a (inferred): 4
+Overlaps (input): 6
+is_a (input): 5
+
+PW 127:
+Overlaps (inferred): 2
+is_a (input): 5
+is_a (inferred): 4
+Overlaps (input): 6
+
+PW 128:
+Congruent: 1
+is_a (inferred): 1
+is_a (input): 7
+Overlaps (input): 6
+Overlaps (inferred): 1
+
+PW 129:
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 9
+
+PW 130:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 131:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 132:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 133:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 134:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 135:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 136:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 137:
+is_a (inferred): 1
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 138:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 139:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 140:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 141:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 142:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 143:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 144:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 145:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 146:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 147:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 148:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 149:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 150:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 151:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 152:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 153:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 154:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 155:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 156:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 157:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 158:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 159:
+Overlaps (inferred): 4
+is_a (input): 7
+Overlaps (input): 6
+is_a (inferred): 2
+
+PW 160:
+Overlaps (inferred): 3
+is_a (input): 6
+Overlaps (input): 6
+is_a (inferred): 3
+
+PW 161:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 162:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 163:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 164:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 165:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 166:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 167:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 168:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 169:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 170:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 171:
+is_a (input): 7
+Overlaps (inferred): 5
+Overlaps (input): 6
+is_a (inferred): 3
+
+PW 172:
+is_a (input): 7
+is_a (inferred): 4
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 173:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 174:
+Overlaps (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 4
+
+PW 175:
+is_a (input): 7
+Overlaps (inferred): 4
+Overlaps (input): 6
+is_a (inferred): 4
+
+PW 176:
+is_a (input): 7
+is_a (inferred): 5
+Overlaps (input): 6
+Overlaps (inferred): 3
+
+PW 177:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 178:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 179:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 180:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 181:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 182:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 183:
+is_a (input): 7
+Overlaps (inferred): 4
+Overlaps (input): 6
+is_a (inferred): 4
+
+PW 184:
+is_a (input): 7
+is_a (inferred): 5
+Overlaps (input): 6
+Overlaps (inferred): 3
+
+PW 185:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 186:
+is_a (inferred): 4
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 187:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 188:
+Overlaps (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 5
+
+PW 189:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 3
+
+PW 190:
+Overlaps (inferred): 2
+is_a (input): 7
+Overlaps (input): 6
+is_a (inferred): 3
+
+PW 191:
+Overlaps (inferred): 2
+is_a (inferred): 3
+Overlaps (input): 6
+is_a (input): 6
+
+PW 192:
+Overlaps (inferred): 1
+is_a (input): 5
+is_a (inferred): 4
+Overlaps (input): 6
+
+PW 193:
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 8
+
+PW 194:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 195:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 196:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 197:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 198:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 199:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 200:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 201:
+is_a (inferred): 1
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 202:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 203:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 204:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 205:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 206:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 207:
+Overlaps (inferred): 5
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 3
+
+PW 208:
+Overlaps (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 4
+
+PW 209:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 210:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 211:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 212:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 213:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 214:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 215:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 216:
+is_a (inferred): 4
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 217:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 218:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 219:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 220:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 221:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 222:
+is_a (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 223:
+Overlaps (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 4
+
+PW 224:
+Overlaps (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 5
+
+PW 225:
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 7
+
+PW 226:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 227:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 228:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 229:
+is_a (inferred): 1
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 230:
+Overlaps (inferred): 5
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 2
+
+PW 231:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 232:
+Overlaps (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 3
+
+PW 233:
+is_a (inferred): 1
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 6
+
+PW 234:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 235:
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 236:
+is_a (inferred): 3
+is_a (input): 9
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 237:
+is_a (inferred): 2
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 5
+
+PW 238:
+Overlaps (inferred): 4
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 3
+
+PW 239:
+is_a (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+Overlaps (inferred): 4
+
+PW 240:
+Overlaps (inferred): 3
+is_a (input): 8
+Overlaps (input): 6
+is_a (inferred): 4
+

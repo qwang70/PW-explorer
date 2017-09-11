@@ -1,2 +1,2 @@
-,1948,1950,congruent,overlaps (input),overlaps (inferred),is_a (input)
-0,3,3,4,1,3,13
+,is_a (input),overlaps (inferred),1950,congruent,overlaps (input),1948
+0,13,3,3,4,1,3

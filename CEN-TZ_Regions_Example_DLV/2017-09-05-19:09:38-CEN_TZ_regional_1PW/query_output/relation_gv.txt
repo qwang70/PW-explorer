@@ -1,0 +1,7 @@
+PW 1:
+Congruent: 1
+is_a (inferred): 1
+is_a (input): 7
+Overlaps (input): 6
+Overlaps (inferred): 1
+

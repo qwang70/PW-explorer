@@ -1,0 +1,38 @@
+PW 1:
+Congruent: 4
+Overlaps (inferred): 4
+is_a (input): 11
+is_a (inferred): 2
+
+PW 2:
+Congruent: 6
+is_a (input): 9
+Overlaps (inferred): 1
+
+PW 3:
+Congruent: 4
+Overlaps (inferred): 3
+is_a (input): 7
+is_a (inferred): 3
+
+PW 4:
+Congruent: 7
+is_a (input): 6
+
+PW 5:
+Congruent: 4
+is_a (inferred): 3
+is_a (input): 7
+Overlaps (inferred): 3
+
+PW 6:
+Congruent: 4
+is_a (input): 11
+Overlaps (inferred): 9
+
+PW 7:
+Congruent: 4
+is_a (inferred): 2
+is_a (input): 9
+Overlaps (inferred): 4
+
